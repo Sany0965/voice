@@ -21,7 +21,7 @@
 Чтобы запустить этот бот, вам понадобятся следующие библиотеки Python:
 
 1. Telebot:
-"pip install pyTelegramBotAPI"
+""pip install pyTelegramBotAPI""
 
 2. SpeechRecognition:
 "pip install SpeechRecognition"
