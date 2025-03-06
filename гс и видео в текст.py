@@ -29,7 +29,7 @@ def start_prompt(message):
              "И даже Telegram premium не нужен!\n"
              "<b>☢Голосовые сообщения и видеосообщения не больше 2 минут!</b>").format(user_name=user_name)
     keyboard = types.InlineKeyboardMarkup()
-    url_button = types.InlineKeyboardButton(text="🟠Dev", url="https://t.me/pizzaway")
+    url_button = types.InlineKeyboardButton(text="🟠Dev", url="https://t.me/worpli")
     keyboard.add(url_button)
     bot.send_message(message.chat.id, reply, parse_mode="HTML", reply_markup=keyboard)
 
