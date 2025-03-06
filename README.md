@@ -39,6 +39,6 @@
 
 ## Автор
 
-Этот бот разработан [tg:pizzaway](https://t.me/pizzaway).
+Этот бот разработан [tg:worpli](https://t.me/worpli).
 
 
